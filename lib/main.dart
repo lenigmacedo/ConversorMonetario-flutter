@@ -6,7 +6,7 @@ import 'dart:convert';
 import 'package:countdown/countdown.dart';
 
 // Api de Request dos dados
-const request = "https://api.hgbrasil.com/finance?format=json&key=2430c297";
+const request = "https://api.hgbrasil.com/finance?format=json&key=YOURKEY";
 //Define o metodo async
 
 void main() async {
